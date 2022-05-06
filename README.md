@@ -1,8 +1,24 @@
-# :wave: The Basics of GitHub 
+# :wave: Introduction to Data Science
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to give you a brief introduction to Introduction to Data Science for liberal arts students. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. No previous exposure to either probability and calculus is assumed. 🚀
+
+## :octocat: Week 1: sksksks
+## :octocat: Week 2: sksksks
+## :octocat: Week 3: sksksks
+## :octocat: Week 4: sksksks
+## :octocat: Week 5: sksksks
+## :octocat: Week 6: sksksks
+## :octocat: Week 7: sksksks
+## :octocat: Week 8: sksksks
+## :octocat: Week 9: sksksks
+## :octocat: Week 10: sksksks
+## :octocat: Week 11: sksksks
+## :octocat: Week 12: sksksks
+## :octocat: Week 13: sksksks
+## :octocat: Week 14: sksksks
+## :octocat: Week 15: sksksks
 
 ## :octocat: Git and GitHub
 
