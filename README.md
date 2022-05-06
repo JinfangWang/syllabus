@@ -4,21 +4,41 @@
 
 The goal of this course is to give you a brief introduction to Introduction to Data Science for liberal arts students. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. No previous exposure to either probability and calculus is assumed. 🚀
 
-## :octocat: Week 1: sksksks
-## :octocat: Week 2: sksksks
-## :octocat: Week 3: sksksks
-## :octocat: Week 4: sksksks
-## :octocat: Week 5: sksksks
-## :octocat: Week 6: sksksks
-## :octocat: Week 7: sksksks
-## :octocat: Week 8: sksksks
-## :octocat: Week 9: sksksks
-## :octocat: Week 10: sksksks
-## :octocat: Week 11: sksksks
-## :octocat: Week 12: sksksks
-## :octocat: Week 13: sksksks
-## :octocat: Week 14: sksksks
-## :octocat: Week 15: sksksks
+## 🤓 Detailed description of the course contents 
+
+### :octocat: Week 1: What is Data Science? 
+
+Introduction of Google Colab.
+
+### :octocat: Week 2: Data Visualization and Python: summarizing numerical data using effective tools
+### :octocat: Week 3: Data Visualization and Python: ??
+### :octocat: Week 4: Introduction of Github: reproducibility and collaboration of data science project
+
+💻 **Assignment 1** 
+
+### :octocat: Week 5: Probability and Bayes Theorems
+### :octocat: Week 6: Discrete Distributions
+### :octocat: Week 7: Continuous Distributions
+
+💻 **Assignment 2**
+![image](https://user-images.githubusercontent.com/104957715/167093246-5e6c79f5-c825-4d42-9466-d01afab7d2c9.png)
+
+
+### :octocat: Week 8: Basics of Machine Learning
+### :octocat: Week 9: Prediction: linear regressions and beyond
+### :octocat: Week 10: Classification: logistic regressions and beyond
+
+💻 **Assignment 3** 
+
+### :octocat: Week 11: Data Ethices
+### :octocat: Week 12: Natural Language Processing: Data Preprocessing
+### :octocat: Week 13: Natural Language Processing: Neural Networks and Deep Learning
+### :octocat: Week 14: Natural Language Processing: Make Fake News Detection App
+
+💻 **Assignment 4**
+![image](https://user-images.githubusercontent.com/104957715/167093668-615d1bdb-230b-4fcc-96bd-1baa61d621ce.png)
+
+### :octocat: Week 15: Summary
 
 ## :octocat: Git and GitHub
 
