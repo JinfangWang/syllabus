@@ -21,8 +21,6 @@ Introduction of Google Colab.
 ### :octocat: Week 7: Continuous Distributions
 
 💻 **Assignment 2**
-![image](https://user-images.githubusercontent.com/104957715/167093246-5e6c79f5-c825-4d42-9466-d01afab7d2c9.png)
-
 
 ### :octocat: Week 8: Basics of Machine Learning
 ### :octocat: Week 9: Prediction: linear regressions and beyond
@@ -36,7 +34,6 @@ Introduction of Google Colab.
 ### :octocat: Week 14: Natural Language Processing: Make Fake News Detection App
 
 💻 **Assignment 4**
-![image](https://user-images.githubusercontent.com/104957715/167093668-615d1bdb-230b-4fcc-96bd-1baa61d621ce.png)
 
 ### :octocat: Week 15: Summary
 
