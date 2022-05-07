@@ -1,18 +1,198 @@
 # :wave: Introduction to Data Science
 
-## 🤓 Course overview and learning outcomes 
+[Introduction to Data Science](https://rafalab.github.io/dsbook/introduction-to-data-visualization.html)
 
-The goal of this course is to give you a brief introduction to Introduction to Data Science for liberal arts students. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. No previous exposure to either probability and calculus is assumed. 🚀
+Part I: Python
 
-## 🤓 Detailed description of the course contents 
+# Getting started with R and RStudio
+- Why R?
+- The R console
+- Scripts
+- RStudio
+- Installing R packages
+
+# R basics
+Case study: US Gun Murders
+dd
+ddd
+Exercises
+
+Part II: Data Visualization
+# Introduction to data visualization 1
+Introduction
+ggplot<- matlib, SNS
+Visualizing data distributions
+Case study: describing student heights
+Distribution function
+Cumulative distribution functions
+Histograms
+Smoothed density
+Interpreting the y-axis
+Densities permit stratification
+Exercises
+
+# Introduction to data visualization 2
+The normal distribution
+Standard units
+Quantile-quantile plots
+Percentiles
+Boxplots
+Stratification
+Case study: describing student heights (continued)
+Exercises
+
+# Data visualization in practice
+Case study: new insights on poverty
+Hans Rosling’s quiz
+Scatterplots
+Faceting
+Time series plots
+Labels instead of legends
+Data transformations
+Visualizing multimodal distributions
+Comparing multiple distributions with boxplots and ridge plots
+The ecological fallacy and importance of showing the data
+
+# Part III: Introduction to statistics with Python
+## Probability
+Discrete probability
+Monte Carlo simulations for categorical data
+ Independence
+ Conditional probabilities
+ Addition and multiplication rules
+  Combinations and permutations
+   Monte Carlo example
+   Birthday problem
+Infinity in practice
+Exercises
+
+Continuous probability
+Theoretical continuous distributions
+Monte Carlo simulations for continuous variables
+ Continuous distributions
+ Exercises
+ 
+# Statistical inference <- Statistical Thinking?
+Polls
+Populations, samples, parameters, and estimates
+Exercises
+Central Limit Theorem in practice
+Exercises
+Confidence intervals
+Hypothises testing, Power, p-values, Association tests
+Exercises
+
+# Regression
+Case study: is height hereditary?
+The correlation coefficient
+Conditional expectations
+The regression line
+Exercises
+
+# Linear models
+Case study: Moneyball
+Confounding
+Least squares estimates
+Exercises
+
+Linear regression in the tidyverse
+Exercises
+
+Case study: Moneyball (continued)
+Exercises
+
+The regression fallacy
+Exercises
+
+Measurement error models
+Exercises
+
+# Execute me, but association is not causation
+Spurious correlation
+Outliers
+Reversing cause and effect
+Confounders
+Simpson’s paradox
+Exercises
+
+Part IV: Machine (Statistical) Learning with Python
+
+# Introduction to machine learning
+
+# Examples of algorithms
+Linear regression
+Exercises
+
+Logistic regression
+Exercises
+
+k-nearest neighbors
+Exercises
+
+Generative models
+Exercises
+
+Case study: more than three classes
+Exercises
+
+Classification and regression trees (CART)
+Exercises
+
+# Machine learning in practice: Fake News detection???
+Preprocessing
+ k-nearest neighbor and random forest
+Variable importance
+Visual assessments
+Ensembles
+ Exercises
+ 
+# Reproducible and Collabative Project with Git and GitHub
+
+[Codeacademy](https://www.codecademy.com/learn/learn-git)
+[GitHub Guides](https://guides.github.com/activities/hello-world/)
+[Try Git tutorial](https://try.github.io/levels/1/challenges/1)
+[Happy Git and GitHub for the useR](http://happygitwithr.com/)
+
+Why use Git and GitHub?
+
+Sharing: Even if we do not take advantage of the advanced and powerful version control functionality, we can still use Git and GitHub to share our code.
+
+Collaborating: Once you set up a central repo, you can have multiple people make changes to code and keep versions synched. GitHub provides a free service for centralized repos. GitHub also has a special utility, called a pull request, that can be used by anybody to suggest changes to your code. You can easily either accept or deny the request.
+
+Version control: The version control capabilities of Git permit us to keep track of changes we make to our code. We can also revert back to previous versions of files. Git also permits us to create branches in which we can test out ideas, then decide if we merge the new branch with the original.
+
+ GitHub accounts
+ 
+ GitHub repositories
+ 
+ Overview of Git
+ 
+ Initializing a Git directory
+ 
+ Using Git and GitHub in RStudio<- Using Git and GitHub in Google Colab/Jupyter Notebook?
+
+
+
+
+
+##  Course overview and learning outcomes 
+
+The goal of this course is to give you a brief introduction to Introduction to Data Science for liberal arts students. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. No previous exposure to either probability and calculus is assumed. 
+
+Introduction to Data Science in Python
+
+##  Detailed description of the course contents 
 
 ### :octocat: Week 1: What is Data Science? 
 
 Introduction of Google Colab.
 
 ### :octocat: Week 2: Data Visualization and Python: summarizing numerical data using effective tools
+💻
 ### :octocat: Week 3: Data Visualization and Python: ??
+💻
 ### :octocat: Week 4: Introduction of Github: reproducibility and collaboration of data science project
+💻
 
 💻 **Assignment 1** 
 
@@ -23,12 +203,18 @@ Introduction of Google Colab.
 💻 **Assignment 2**
 
 ### :octocat: Week 8: Basics of Machine Learning
+💻
+
 ### :octocat: Week 9: Prediction: linear regressions and beyond
+💻
 ### :octocat: Week 10: Classification: logistic regressions and beyond
+💻
 
 💻 **Assignment 3** 
 
 ### :octocat: Week 11: Data Ethices
+💻
+
 ### :octocat: Week 12: Natural Language Processing: Data Preprocessing
 ### :octocat: Week 13: Natural Language Processing: Neural Networks and Deep Learning
 ### :octocat: Week 14: Natural Language Processing: Make Fake News Detection App
@@ -36,6 +222,7 @@ Introduction of Google Colab.
 💻 **Assignment 4**
 
 ### :octocat: Week 15: Summary
+💻
 
 ## :octocat: Git and GitHub
 
